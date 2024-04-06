@@ -1,52 +1,53 @@
 output_falg,Stratagem_name,Stratagem_code,class_name
-0,Machine Gun (level 1),Down&Left&Down&Up&Right,Patriotic Administration Center Stratagem Codes
-0,Anti-Material Rifle (level 2),Down&Left&Right&Up&Down,Patriotic Administration Center Stratagem Codes
-0,Stalwart (level 2),Down&Left&Down&Up&Up&Left,Patriotic Administration Center Stratagem Codes
+-1,Machine Gun (level 1),Down&Left&Down&Up&Right,Patriotic Administration Center Stratagem Codes
+-1,Anti-Material Rifle (level 2),Down&Left&Right&Up&Down,Patriotic Administration Center Stratagem Codes
+-1,Stalwart (level 2),Down&Left&Down&Up&Up&Left,Patriotic Administration Center Stratagem Codes
+-1,Recoiled Rifle (level 5),Down&Left&Right&Right&Left,Patriotic Administration Center Stratagem Codes
+-1,Flamethrower (level 10),Down&Left&Up&Down&Up,Patriotic Administration Center Stratagem Codes
+-1,Railgun (level 20),Down&Right&Left&Down&Up&Left&Right,Patriotic Administration Center Stratagem Codes
+-1,Orbital Gatling Barrage (level 2),Right&Down&Left&Up&Up,Orbital Cannons Stratagem Codes
+-1,Orbital Airburst Strike (level 5),Right&Right Right,Orbital Cannons Stratagem Codes
+-1,Orbital 120MM HE Barrage (level 5),Right&Down&Left&Right&Down,Orbital Cannons Stratagem Codes
+-1,Orbital 380MM HE Barrage (level 8),Right&Down&Up&Up&Left&Down&Down,Orbital Cannons Stratagem Codes
+-1,Orbital Walking Barrage (level 10),Right&Right&Down&Left&Right&Down,Orbital Cannons Stratagem Codes
+-1,Orbital Railcannon Strike (level 20),Right&Up&Down&Down&Right,Orbital Cannons Stratagem Codes
+-1,Eagle Strafing Run (level 2),Up&Right&Right,Hangar Stratagem Codes
+-1,Eagle Cluster Bomb (level 3),Up&Right&Down&Down&Right,Hangar Stratagem Codes
+-1,Eagle Napalm Airstrike (level 5),Up&Right&Down&Up,Hangar Stratagem Codes
+-1,Eagle Smoke Strike (level 8),Up&Right&Up&Down,Hangar Stratagem Codes
+-1,Orbital Precision Strike (level 1),Right&Right&Up,Bridge Stratagem Codes
+-1,Orbital Gas Strike (level 3),Right&Right&Down&Right,Bridge Stratagem Codes
+-1,Orbital EMS Strike (level 5),Right&Right&Left&Down,Bridge Stratagem Codes
+-1,Orbital Smoke Strike (level 8),Right&Right&Down&Up,Bridge Stratagem Codes
+-1,HMG Emplacement (level 10),Down&Up&Left&Right&Right&Left,Bridge Stratagem Codes
+-1,Tesla Tower (15),Down&Up&Right&Up&Left&Right,Bridge Stratagem Codes
+-1,Anti-Personnel Minefield (level 2),Down&Left&Up&Right,Engineering Bay Stratagem Codes
+-1,Grenade Launcher (level 5),Down&Left&Up&Left&Down,Engineering Bay Stratagem Codes
+-1,Laser Cannon (level 5),Down&Left&Down&Up&Left,Engineering Bay Stratagem Codes
+-1,Incendiary Mines (level 8),Down&Left&Left&Down,Engineering Bay Stratagem Codes
+-1,Guard Dog Rover (level 10),Down&Up&Left&Up&Right&Right,Engineering Bay Stratagem Codes
+-1,Ballistic Shield Backpack (level 12),Down&Left&Up&Up&Right,Engineering Bay Stratagem Codes
+-1,Arc thrower (level 15),Down&Right&Up&Left&Down,Engineering Bay Stratagem Codes
+-1,Shield Generator Pack (level 20),Down&Up&Left&Right&Left&Right,Engineering Bay Stratagem Codes
+-1,Machine Gun Sentry (level 3),Down&Up&Right&Right&Up,Robotic Workshop Stratagem Codes
+-1,Guard Dog (level 10),Down&Up&Left&Up&Right&Down,Robotic Workshop Stratagem Codes
+-1,Autocannon Sentry (level 13),Down&Up&Right&Up&Left&Up,Robotic Workshop Stratagem Codes
+-1,Rocket Sentry (level 15),Down&Up&Right&Right&Left,Robotic Workshop Stratagem Codes
+-1,EMS Mortar Sentry (level 20),Down&Down&Up&Up&Left,Robotic Workshop Stratagem Codes
+-1,Patriot Exosuit (level 25),Left&Down&Right&Up&Left&Down&Down,Robotic Workshop Stratagem Codes
+-1,SOS Beacon,Up&Down&Right&Up,Mission Stratagems
+-1,Hellbomb,Down&Up&Left&Down&Up&Right&Down&Up,Mission Stratagems
+0,LAS-99 Quasar Cannon,Down&Down&Up&Left&Right,
 1,Expendable Anti-Tank (level 3),Down&Down&Left&Up&Right,Patriotic Administration Center Stratagem Codes
-2,Recoiled Rifle (level 5),Down&Left&Right&Right&Left,Patriotic Administration Center Stratagem Codes
-0,Flamethrower (level 10),Down&Left&Up&Down&Up,Patriotic Administration Center Stratagem Codes
-3,Autocannon (level 10),Down&Left&Down&Up&Up&Right,Patriotic Administration Center Stratagem Codes
-0,Railgun (level 20),Down&Right&Left&Down&Up&Left&Right,Patriotic Administration Center Stratagem Codes
-4,Spear (level 20),Down&Down&Up&Down&Down,Patriotic Administration Center Stratagem Codes
-0,Orbital Gatling Barrage (level 2),Right&Down&Left&Up&Up,Orbital Cannons Stratagem Codes
-0,Orbital Airburst Strike (level 5),Right&Right Right,Orbital Cannons Stratagem Codes
-0,Orbital 120MM HE Barrage (level 5),Right&Down&Left&Right&Down,Orbital Cannons Stratagem Codes
-0,Orbital 380MM HE Barrage (level 8),Right&Down&Up&Up&Left&Down&Down,Orbital Cannons Stratagem Codes
-0,Orbital Walking Barrage (level 10),Right&Right&Down&Left&Right&Down,Orbital Cannons Stratagem Codes
-5,Orbital Lasers (level 15),Right&Down&Up&Right&Down,Orbital Cannons Stratagem Codes
-0,Orbital Railcannon Strike (level 20),Right&Up&Down&Down&Right,Orbital Cannons Stratagem Codes
-0,Eagle Strafing Run (level 2),Up&Right&Right,Hangar Stratagem Codes
-6,Eagle Airstrike (level 2),Up&Right&Down&Right,Hangar Stratagem Codes
-0,Eagle Cluster Bomb (level 3),Up&Right&Down&Down&Right,Hangar Stratagem Codes
-0,Eagle Napalm Airstrike (level 5),Up&Right&Down&Up,Hangar Stratagem Codes
-7,Jump Pack (level 8),Down&Up&Up&Down&Up,Hangar Stratagem Codes
-0,Eagle Smoke Strike (level 8),Up&Right&Up&Down,Hangar Stratagem Codes
-0,Eagle 110MM Rocket Pods (level 10),Up&Right&Up&Left,Hangar Stratagem Codes
-8,Eagle 500KG Bomb (level 15),Up&Right&Down&Down&Down,Hangar Stratagem Codes
-0,Orbital Precision Strike (level 1),Right&Right&Up,Bridge Stratagem Codes
-0,Orbital Gas Strike (level 3),Right&Right&Down&Right,Bridge Stratagem Codes
-0,Orbital EMS Strike (level 5),Right&Right&Left&Down,Bridge Stratagem Codes
-0,Orbital Smoke Strike (level 8),Right&Right&Down&Up,Bridge Stratagem Codes
-0,HMG Emplacement (level 10),Down&Up&Left&Right&Right&Left,Bridge Stratagem Codes
-9,Shield Generation Relay (level 10),Down&Up&Left&Down&Right&Right,Bridge Stratagem Codes
-0,Tesla Tower (15),Down&Up&Right&Up&Left&Right,Bridge Stratagem Codes
-0,Anti-Personnel Minefield (level 2),Down&Left&Up&Right,Engineering Bay Stratagem Codes
-10,Supply Pack (level 3),Down&Left&Down&Up&Up&Down,Engineering Bay Stratagem Codes
-0,Grenade Launcher (level 5),Down&Left&Up&Left&Down,Engineering Bay Stratagem Codes
-0,Laser Cannon (level 5),Down&Left&Down&Up&Left,Engineering Bay Stratagem Codes
-0,Incendiary Mines (level 8),Down&Left&Left&Down,Engineering Bay Stratagem Codes
-0,Guard Dog Rover (level 10),Down&Up&Left&Up&Right&Right,Engineering Bay Stratagem Codes
-0,Ballistic Shield Backpack (level 12),Down&Left&Up&Up&Right,Engineering Bay Stratagem Codes
-0,Arc thrower (level 15),Down&Right&Up&Left&Down,Engineering Bay Stratagem Codes
-0,Shield Generator Pack (level 20),Down&Up&Left&Right&Left&Right,Engineering Bay Stratagem Codes
-11,Machine Gun Sentry (level 3),Down&Up&Right&Right&Up,Robotic Workshop Stratagem Codes
-12,Gatling Sentry (level 5),Down&Up&Right&Left,Robotic Workshop Stratagem Codes
-13,Mortar Sentry (level 8),Down&Up&Right&Right&Down,Robotic Workshop Stratagem Codes
-0,Guard Dog (level 10),Down&Up&Left&Up&Right&Down,Robotic Workshop Stratagem Codes
-0,Autocannon Sentry (level 13),Down&Up&Right&Up&Left&Up,Robotic Workshop Stratagem Codes
-0,Rocket Sentry (level 15),Down&Up&Right&Right&Left,Robotic Workshop Stratagem Codes
-0,EMS Mortar Sentry (level 20),Down&Down&Up&Up&Left,Robotic Workshop Stratagem Codes
-0,Patriot Exosuit (level 25),Left&Down&Right&Up&Left&Down&Down,Robotic Workshop Stratagem Codes
-14,Reinforce,Up&Down&Right&Left&Up,Mission Stratagems
-15,SOS Beacon,Up&Down&Right&Up,Mission Stratagems
-16,Hellbomb,Down&Up&Left&Down&Up&Right&Down&Up,Mission Stratagems
+2,Autocannon (level 10),Down&Left&Down&Up&Up&Right,Patriotic Administration Center Stratagem Codes
+3,Spear (level 20),Down&Down&Up&Down&Down,Patriotic Administration Center Stratagem Codes
+4,Orbital Lasers (level 15),Right&Down&Up&Right&Down,Orbital Cannons Stratagem Codes
+5,Eagle Airstrike (level 2),Up&Right&Down&Right,Hangar Stratagem Codes
+6,Jump Pack (level 8),Down&Up&Up&Down&Up,Hangar Stratagem Codes
+7,Eagle 500KG Bomb (level 15),Up&Right&Down&Down&Down,Hangar Stratagem Codes
+8,Shield Generation Relay (level 10),Down&Up&Left&Down&Right&Right,Bridge Stratagem Codes
+9,Supply Pack (level 3),Down&Left&Down&Up&Up&Down,Engineering Bay Stratagem Codes
+10,Gatling Sentry (level 5),Down&Up&Right&Left,Robotic Workshop Stratagem Codes
+11,Mortar Sentry (level 8),Down&Up&Right&Right&Down,Robotic Workshop Stratagem Codes
+12,Reinforce,Up&Down&Right&Left&Up,Mission Stratagems
+13,Eagle 110MM Rocket Pods (level 10),Up&Right&Up&Left,Hangar Stratagem Codes
